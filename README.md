@@ -27,3 +27,6 @@
 - OOP
 - dbms
 - dev VS 2017 and 2019 extensions
+
+
+My VSB Codes (projects, tasks) [Here](https://github.com/jkonvicka/VSB-Code) (at study time this repo is set as private)
