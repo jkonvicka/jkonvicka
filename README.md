@@ -1,6 +1,5 @@
 # 👋 Hi, I’m Jakub Konvička
 - 👨‍🎓 I am student at [VSB-TUO](https://www.vsb.cz/en) right now (Computer Science)
-- 💻  I work as a part time Research Assistant at [IT4I - National Supercomputing Center](https://www.it4i.cz/en)
 - 👀 I’m interested in creating multi-layer apps (modular), databases, **C++, .NET (C#), SQL...**
 - 🌱 I’m currently learning how to use **React**
 - 💞️ I’m looking to collaborate on some project **that makes a sense**
