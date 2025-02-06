@@ -5,8 +5,6 @@
 - 📫 How to reach me: konvicka.g630(at)gmail.com
 - ❤ IDEs: MS Visual Studio, VS Code, JetBrains IDEs (DataGrip, CLion, WebStorm, ReSharper)
 
-Personal web: [https://konvicka.php5.cz/](https://konvicka.php5.cz/)
-
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'></img>](https://www.linkedin.com/in/jakub-konvi%C4%8Dka-46590a18a)
 
 ### Languages
